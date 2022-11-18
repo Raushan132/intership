@@ -1,0 +1,21 @@
+
+
+.content .about {
+    display: flex;
+    margin: 50px 13px;
+}
+.about .content-box {
+    max-width: 700px;
+    margin: 0 30px;
+}
+.content .about h1{
+    color: #fb8d6d;
+}
+.comp_data {
+    padding-left: 20px;
+    padding-top: 10px;
+    font-size: 17px;
+}
+.about_img img {
+    width: 300px;
+}
